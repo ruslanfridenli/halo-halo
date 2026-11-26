@@ -5,3 +5,4 @@
 - patch 4 — halo halo — splitwise local
 - patch 5 — halo halo — splitwise local
 - patch 6 — halo halo — splitwise local
+- patch 7 — halo halo — splitwise local
