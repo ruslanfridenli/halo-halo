@@ -10,3 +10,4 @@
 - patch 9 — halo halo — splitwise local
 - patch 10 — halo halo — splitwise local
 - patch 11 — halo halo — splitwise local
+- patch 12 — halo halo — splitwise local
